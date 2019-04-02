@@ -1,0 +1,30 @@
+{
+  "pubDate": "March 25, 2019",
+  "imgFormat": "jpg",
+  "whitelabel": {
+    "logo": ""
+  },
+  "panelZoomMode": "desktop-hover",
+  "desktopHoverZoomOptions": {
+    "scale": 1.5,
+    "fit": 0.98,
+    "padding": 0.38,
+    "zoomInDelay": "200ms",
+    "zoomOutDelay": "1500ms",
+    "zoomInSpeed": "600ms",
+    "zoomOutSpeed": "500ms",
+    "mouseFollowSpeed": "350ms"
+  },
+  "lazyLoadExtent": 6,
+  "transitionDuration": "450ms",
+  "gutterWidth": "2px",
+  "drawerTransitionDuration": "500ms",
+  "social": {
+    "twitter_text": "A graphic journey between Africa and Europe",
+    "twitter_account": "correctiv_org",
+    "fb_text": "A graphic journey between Africa and Europe - Made in Germany: A Massacre in Congo",
+    "promo_img_url": "PUBLISHED URL FOR IMAGE TO USE AS SOCIAL PROMO",
+    "fb_app_id": "YOUR FB APP ID"
+  },
+  "requireStartOnFirstPage": false
+}
